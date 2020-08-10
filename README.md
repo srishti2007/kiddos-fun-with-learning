@@ -1,2 +1,2 @@
-# kiddos-fun-with-learning
-Game is browser silicon valley register
+# p5.play-boilerplate
+Boiler plate for p5.play
